@@ -23,7 +23,7 @@ Devices: Windows PC / iPhone / iPad
 ---
 
 ### 🔭 作っているもの / Current Projects  
-- 🎨 カラーチェンジャーアプリ（DOMやイベントの練習）  
+- ✊ じゃんけんアプリ（DOMやイベントの練習）  
 - 🗺️ 旅行先ランダムジェネレーター（JavaScriptのアウトプット）
 
 ---
