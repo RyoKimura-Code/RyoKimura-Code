@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **RyoKimura-Code/RyoKimura-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -45,4 +45,3 @@ Devices: Windows PC / iPhone / iPad
 
 _見てくれてありがとうございます！_  
 Thanks for stopping by 😊
--->
