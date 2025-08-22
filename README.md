@@ -11,8 +11,8 @@ Hi there! I'm Ryo 👋
 🌱 JavaScriptとフロントエンド開発を勉強中  
 Currently learning **JavaScript** & **Frontend Development**
 
-🎯 目標：フルスタックエンジニア転職 → 海外移住  
-Goal: Become a full-stack engineer & move abroad in the near future
+🎯 目標：フルスタックエンジニア転職  
+Goal: Become a full-stack engineer
 
 💻 ツール: VSCode / Git / GitHub / Textastic  
 Tools: VSCode / Git / GitHub / Textastic
